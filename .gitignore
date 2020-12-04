@@ -1,0 +1,79 @@
+# Project exclude paths
+/.gradle/
+/Problems/Arithmetic average/out/
+/Problems/Arithmetic average/out/production/classes/
+/Problems/Assignments (1)/out/
+/Problems/Assignments (1)/out/production/classes/
+/Problems/Check burgs/out/
+/Problems/Check burgs/out/production/classes/
+/Problems/Chocolate/out/
+/Problems/Chocolate/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Comparing strings ignoring whitespaces/out/
+/Problems/Comparing strings ignoring whitespaces/out/production/classes/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Desks/out/
+/Problems/Desks/out/production/classes/
+/Problems/Difference of times/out/
+/Problems/Difference of times/out/production/classes/
+/Problems/Digits from 0 to 9 in a single line/out/
+/Problems/Digits from 0 to 9 in a single line/out/production/classes/
+/Problems/Even or odd/out/
+/Problems/Even or odd/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/First, second, third/out/
+/Problems/First, second, third/out/production/classes/
+/Problems/Fizz Buzz/out/
+/Problems/Fizz Buzz/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Problems/Leap year/out/
+/Problems/Leap year/out/production/classes/
+/Problems/Maximum element divisible by four/out/
+/Problems/Maximum element divisible by four/out/production/classes/
+/Problems/Next even number/out/
+/Problems/Next even number/out/production/classes/
+/Problems/Printing a magic letter/out/
+/Problems/Printing a magic letter/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Profit/out/
+/Problems/Profit/out/production/classes/
+/Problems/Replacing 'a' with 'b'/out/
+/Problems/Replacing 'a' with 'b'/out/production/classes/
+/Problems/Reversing/out/
+/Problems/Reversing/out/production/classes/
+/Problems/Snail/out/
+/Problems/Snail/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/The (un)-ordered sequence/out/
+/Problems/The (un)-ordered sequence/out/production/classes/
+/Problems/The army of units/out/
+/Problems/The army of units/out/production/classes/
+/Problems/The countdown/out/
+/Problems/The countdown/out/production/classes/
+/Problems/The Hello World program/out/
+/Problems/The Hello World program/out/production/classes/
+/Problems/The integer barrier/out/
+/Problems/The integer barrier/out/production/classes/
+/Problems/The largest element of a sequence/out/
+/Problems/The largest element of a sequence/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Problems/The sequence (1)/out/
+/Problems/The sequence (1)/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
